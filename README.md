@@ -8,7 +8,7 @@
 
 ![alt text](push_swapm.png)
 
-## 🎯 _DESCRIPTION_
+## 🎯 _Description_
 
 The purpose of this project is to implement a program named `push_swap`, capable of analyzing a list of unordered integers and outputting an optimized sequence of operations to sort it.
 
@@ -155,12 +155,12 @@ This process is repeated for each successive bit until the entire stack is sorte
 
 Performs a fixed number of operations based on the size of the list, rather than on its degree of disorder.</details>
 
-## 📖 _INSTRUCTIONS_
+## 📖 _Instructions_
 
 A Makefile is provided.
 
 <details>
-<summary> Mandatory part </summary>
+<summary> 😶‍🌫️ Mandatory part </summary>
 
 ##### Compilation
 
@@ -215,7 +215,7 @@ To display benchmark information, add the `--bench` flag **before the numeric ar
 <br/>
 
 <details>
-<summary> Bonus part</summary>
+<summary> 😶‍🌫️ Bonus part</summary>
 <br/>
 The bonus part adds an additional program named checker, designed to verify whether a sequence of operations correctly sorts a given list.
 
@@ -276,7 +276,7 @@ prompt back.
 </details>
 <br/>
 <details>
-<summary> Confrontation </summary>
+<summary> 😶‍🌫️ Confrontation </summary>
 <br/>
 To verify the efficiency and correctness of the `push_swap` program, both executables can be used together.
 
@@ -302,7 +302,7 @@ This project was developed by a two-person team:
 
 <br/>
 
-## 🧟 _RESOURCES_
+## 🧟 _Resources_
 
 To determine which algorithms best suited our approach, we consulted several external resources and studied bit manipulation techniques in C.
 
