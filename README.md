@@ -21,7 +21,7 @@ The program does not output the sorted list itself, but only the sequence of ope
 To ensure optimal performance, the program first validates the input, then analyzes the level of disorder of the list in order to select the most suitable sorting algorithm.
 
 
-## 📁 _ALGORITHMS_
+## 📁 _Algorithms_
 
 ### Studied algorithms
 
@@ -292,7 +292,7 @@ The output of `push_swap` is piped directly into `checker`, allowing automatic v
 </details>
 <br/>
 
-## 🛠️ _TASK DISTRIBUTION_
+## 🛠️ _Task distribution_
 
 This project was developed by a two-person team:
 
